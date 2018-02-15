@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p> This is just a test. </p>
+<p style="color:red;"> red test</p>
+<p style="color:blue;"> blue test</p>
+<p style="font-size:36px;">font test </p>
+
+</body>
+</html>
