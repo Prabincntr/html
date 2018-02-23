@@ -1,0 +1,10 @@
+<!doctype =html>
+
+<head> 
+</head>
+<body>
+<button type="button" onclick="alert('Hello world!')">test!</button>
+ 
+</body>
+</html>
+
